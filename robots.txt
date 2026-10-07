@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jzesbaugh.github.io/wa-student-debt-navigation/sitemap.xml
+Sitemap: https://wastudentdebt.org/sitemap.xml

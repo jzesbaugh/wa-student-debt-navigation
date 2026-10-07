@@ -6,13 +6,13 @@ Author: Jesse Zesbaugh, former AmeriCorps Benefits Hub Coach.
 Last reviewed: October 7, 2026.
 
 ## Primary pages
-- https://jzesbaugh.github.io/wa-student-debt-navigation/ — Project overview and thesis
-- https://jzesbaugh.github.io/wa-student-debt-navigation/how-it-happens.html — Hypothetical student pathways and Washington's 2027 default-notice change
-- https://jzesbaugh.github.io/wa-student-debt-navigation/get-help.html — Direct help resources for Washington students facing debt collection or garnishment
-- https://jzesbaugh.github.io/wa-student-debt-navigation/for-navigators.html — Guidance for Benefits Hub coaches, Basic Needs Navigators, and student-support staff
-- https://jzesbaugh.github.io/wa-student-debt-navigation/for-decision-makers.html — Systems questions and feasible handoff gaps for policymakers and institutions
-- https://jzesbaugh.github.io/wa-student-debt-navigation/about.html — Author background and documented case chronology
-- https://jzesbaugh.github.io/wa-student-debt-navigation/glossary-sources.html — Definitions, methodology, AI disclosure, and primary sources
+- https://wastudentdebt.org/ — Project overview and thesis
+- https://wastudentdebt.org/how-it-happens.html — Hypothetical student pathways and Washington's 2027 default-notice change
+- https://wastudentdebt.org/get-help.html — Direct help resources for Washington students facing debt collection or garnishment
+- https://wastudentdebt.org/for-navigators.html — Guidance for Benefits Hub coaches, Basic Needs Navigators, and student-support staff
+- https://wastudentdebt.org/for-decision-makers.html — Systems questions and feasible handoff gaps for policymakers and institutions
+- https://wastudentdebt.org/about.html — Author background and documented case chronology
+- https://wastudentdebt.org/glossary-sources.html — Definitions, methodology, AI disclosure, and primary sources
 
 ## Reading guidance
 - Sam, Maya, and Priya are hypothetical and are used to illustrate legally possible pathways.
