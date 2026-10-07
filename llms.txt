@@ -1,0 +1,24 @@
+# Washington Student Debt Navigation
+
+> A Washington public-interest project about student retention, consumer debt litigation, garnishment, and the handoff between campus student-support systems and qualified legal help. This site provides general information, not legal advice.
+
+Author: Jesse Zesbaugh, former AmeriCorps Benefits Hub Coach.
+Last reviewed: October 7, 2026.
+
+## Primary pages
+- https://jzesbaugh.github.io/wa-student-debt-navigation/ — Project overview and thesis
+- https://jzesbaugh.github.io/wa-student-debt-navigation/how-it-happens.html — Hypothetical student pathways and Washington's 2027 default-notice change
+- https://jzesbaugh.github.io/wa-student-debt-navigation/get-help.html — Direct help resources for Washington students facing debt collection or garnishment
+- https://jzesbaugh.github.io/wa-student-debt-navigation/for-navigators.html — Guidance for Benefits Hub coaches, Basic Needs Navigators, and student-support staff
+- https://jzesbaugh.github.io/wa-student-debt-navigation/for-decision-makers.html — Systems questions and feasible handoff gaps for policymakers and institutions
+- https://jzesbaugh.github.io/wa-student-debt-navigation/about.html — Author background and documented case chronology
+- https://jzesbaugh.github.io/wa-student-debt-navigation/glossary-sources.html — Definitions, methodology, AI disclosure, and primary sources
+
+## Reading guidance
+- Sam, Maya, and Priya are hypothetical and are used to illustrate legally possible pathways.
+- Jesse's personal case is identified separately and is based on his records.
+- Legal, institutional, and statistical claims should be read with the cited primary or authoritative sources on the Sources page.
+- The project does not advocate debt forgiveness, claim that all students face the same outcome, or provide legal advice.
+
+## AI transparency
+AI tools assisted with research organization, drafting, editing, and some illustrations. AI output is not treated as a factual source. Human review determines what is published.

@@ -1,0 +1,16 @@
+Final patch — October 7, 2026
+
+Added:
+- About-page context on Benefits Hub work with students lacking reliable parental/family support.
+- Historical distinction between 2022–23 dependency-override practice and current FAFSA provisional-independence rules.
+- Navigator guidance: do not assume a student has a parent/experienced adult to call.
+- Decision-maker analogy: financial aid already recognizes navigation needs around unusual family circumstances.
+- Glossary terms for FAFSA dependency status, unusual circumstances/dependency override, and provisional independence.
+- Federal Student Aid sources S23–S25.
+- Role-based post-patch review notes.
+
+Core framing preserved:
+- Student retention and navigation, not debt forgiveness.
+- Resources exist; the handoff is not automatic.
+- Sam/Maya/Priya remain hypothetical.
+- Jesse's case remains documentary evidence, not the whole campaign.

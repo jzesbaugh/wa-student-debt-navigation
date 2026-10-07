@@ -1,0 +1,35 @@
+LAUNCH DECISIONS — WASHINGTON STUDENT DEBT NAVIGATION
+
+1. PROJECT NAME / DOMAIN
+Current working title: “WA Student Debt Navigation.”
+Choose the final public title and domain before adding canonical URLs or social sharing metadata.
+
+2. HOW VISIBLE SHOULD JESSE BE?
+Current build: system/retention problem first; Jesse’s story is supporting evidence on the About page.
+Alternative: lead more personally. Recommendation: keep the current balance for decision-maker credibility.
+
+3. BECU / RIGHT TO RESPOND
+Current build names BECU only in Jesse’s documented case and sourced campus-partnership discussion.
+Decision: send BECU a factual right-to-respond request before public launch? If yes, decide whether to publish a response or simply note that comment was requested.
+
+4. CONTACT METHOD
+No public email or form is included because none was provided.
+Choose whether decision makers, press, students, or navigators should have a contact route.
+
+5. COURT RECORD DEPTH
+Current build summarizes the court record.
+Decide whether to publish source PDFs/exhibits or keep only the chronology and case number.
+
+6. ANALYTICS / PRIVACY
+Current build has no analytics, cookies, trackers, forms, or external scripts.
+If analytics are added, prefer a privacy-preserving option and disclose it.
+
+7. TIME-SENSITIVE PERSONAL WORDING
+Confirm exact degree / graduation wording before launch. Avoid “this month” once it becomes stale; use a dated statement or evergreen wording.
+
+8. UPDATE POLICY
+The 2027 consumer-debt default notice takes effect Jan. 1, 2027. Decide whether the site will show “Last reviewed” and who will re-check law/resource links after that date.
+
+9. ACCESSIBILITY / BRANDING
+Current build uses system fonts, semantic headings, high-contrast colors, alt text, keyboard-friendly navigation, and mobile stacking.
+Optional: add a logo/favicon and perform a formal WCAG audit after final copy is frozen.
