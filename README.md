@@ -43,7 +43,7 @@ I wrote a companion LinkedIn article about my own experience with BECU, student 
 
 **_A Modest Proposal for Student Financial Wellness: Sue the Student_**
 
-[Find the companion article on my LinkedIn profile →](https://www.linkedin.com/in/jzesbaugh)
+[Find the companion article on my LinkedIn profile →](https://www.linkedin.com/pulse/modest-proposal-student-financial-wellness-sue-jesse-zesbaugh-1idec/)
 
 The LinkedIn piece is where I vent. This repository is where I show the work.
 
