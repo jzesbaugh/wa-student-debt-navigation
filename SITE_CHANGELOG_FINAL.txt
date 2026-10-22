@@ -1,3 +1,14 @@
+Patch — October 22, 2026
+
+Added:
+- Decision Makers: "A tax break with no stated purpose" section on the state-chartered credit union B&O tax preference (JLARC 2017 recommendation not implemented; ~$125M biennial estimate; SB 5794 narrowed it in 2025 without clarifying purpose). Balance line: credit unions are employers and pay other taxes.
+- Home: one line connecting the 2027 default-notice law to campus lenders ("helps at the summons; nothing after judgment").
+- Glossary: B&O tax, tax preference, state-chartered credit union, JLARC.
+- Sources T1–T3 (JLARC 2017 review, 2027–2036 review schedule, ESSB 5794 final bill report).
+- Updated last-reviewed dates, sitemap lastmod, llms.txt and README.
+
+Framing preserved: awareness, not repeal; no debt-forgiveness argument.
+
 Final patch — October 7, 2026
 
 Added:
