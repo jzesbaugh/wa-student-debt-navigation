@@ -1,3 +1,11 @@
+Patch — November 1, 2026
+
+Added:
+- Decision Makers: "The proposal: Connect what already exists" section (#proposal). Three connections: SB 5720's 211/legal-aid referral added to the existing garnishment notice (RCW 6.27.140); one notice line pointing enrolled students to campus student services or benefits navigators; consumer-debt court papers added to navigator guidance under 2SHB 1559. Notes on why students and what it doesn't do.
+- Home: "nothing changes after judgment" made precise (the garnishment notice offers only "An attorney can assist you"); project's ask rewritten to match the proposal, with a "Read the proposal" button.
+- Sources S26 (RCW 6.27.140) and S27 (2SHB 1559 session law).
+- Updated dates, sitemap lastmod, llms.txt and README.
+
 Patch — October 22, 2026
 
 Added:

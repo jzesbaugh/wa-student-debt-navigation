@@ -23,7 +23,7 @@ When an enrolled student receives a debt-collection summons, judgment, or garnis
 - **How It Happens** — hypothetical student pathways illustrating how ordinary consumer debt can move through the Washington civil-debt system
 - **Get Help** — direct links to authoritative Washington resources
 - **For Navigators** — recognition and warm-referral guidance for student-support staff
-- **For Decision Makers** — the Summons Test, systems questions, feasible handoff gaps, campus financial partnerships, and the credit union B&O tax preference
+- **For Decision Makers** — the Summons Test, the proposal (connect the garnishment notice, campus navigators and legal aid for enrolled students), feasible handoff gaps, campus financial partnerships, and the credit union B&O tax preference
 - **About** — author background, documented case chronology, and why the question emerged
 - **Glossary & Sources** — definitions, methodology, AI disclosure, and cited sources
 
