@@ -1,3 +1,9 @@
+Patch — November 1, 2026 (b)
+
+Changed:
+- Proposal: the campus-navigator line now goes on both existing notices (the SB 5720 summons notice and the RCW 6.27.140 garnishment notice), not the garnishment notice alone. Lead rewritten to name both notices. Home ask updated to match.
+- Removed proposal.png (screenshot uploaded by mistake).
+
 Patch — November 1, 2026
 
 Added:
